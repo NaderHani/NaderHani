@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nader Hani</h1>
-<h3 align="center">A passionate Front-End Developer.</h3>
-
+<h1 align="left">Hi 👋, I'm Nader Hani</h1>
+<h3 align="left">A passionate Front-End Developer.</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1EwN8B5YGoTKp6Dc6hGegL&ust=1706615611353000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiXgt3EgoQDFQAAAAAdAAAAABAJ" align="right" width="50">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naderhani&label=Profile%20views&color=0e75b6&style=flat" alt="naderhani" /> </p>
 
 - 🌱 I’m currently learning **Angular**

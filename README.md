@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Nader Hani</h1>
-<h3 align="left">A passionate Front-End Developer.</h3>
+<h1 align="center">Hi 👋, I'm Nader Hani</h1>
+<h3 align="center">A passionate Front-End Developer.</h3>
 
 - 🌱 I’m currently **Front-End developer => Angular**
 

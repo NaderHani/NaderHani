@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nader Hani</h1>
-<h3 align="center">A passionate Front-End Developer.</h3>
+<h3 align="left">A passionate Front-End Developer.</h3>
 
 - 🌱 I’m currently **Front-End developer => Angular**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **naderhani3030720@gmail.com**
 
-- ⚡ Fact about me **I'm Not reachable.**
+- ⚡ Fact about me **Wise Man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

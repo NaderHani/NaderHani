@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nader Hani</h1>
+<h1 align="left">Hi 👋, I'm Nader Hani</h1>
 <h3 align="left">A passionate Front-End Developer.</h3>
 
-- 🌱 I’m currently **Front-End developer => Angular**
+- 🌱 I’m currently **Front-End developer React.js & Vue.js**
 
 - 💬 Ask me about **Any Thing on Front-End**
 
-- 📫 How to reach me **naderhani456@gmail.com**
+- 📫 How to reach me **naderhani3030720@gmail.com**
 
 - ⚡ Fact about me **Wise Man**
 

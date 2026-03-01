@@ -1,10 +1,10 @@
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nader+Hani;Front-End+Developer;React.js+%26+Vue.js+Specialist;Turning+Coffee+into+Clean+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-<h3 align="center">⚡ Software Engineer · React & Vue.js Specialist · Crafting Performant & Beautiful UIs</h3>
+<h3 align="left">⚡ Software Engineer · React & Vue.js Specialist · Crafting Performant & Beautiful UIs</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/naderhani?tab=repositories&sort=stargazers">
     <img src="https://custom-icon-badges.demolab.com/github/stars/naderhani?color=236ad3&style=for-the-badge&logo=star&logoColor=white&labelColor=1155ba" alt="Stars"/>
   </a>

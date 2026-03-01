@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nader+Hani;Front-End+Developer;React.js+%26+Vue.js+Specialist;Turning+Coffee+into+Clean+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </p>
 
